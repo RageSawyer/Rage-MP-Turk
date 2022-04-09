@@ -1,3 +1,3 @@
 # Rage-MP-Turk
-Bu repository ragempturk.com ailesi için sıfırdan geliştirilmektedir sadece eğitim amaçlıdır.
+Bu repository https://ragempturk.com/ ailesi için sıfırdan geliştirilmektedir sadece eğitim amaçlıdır.
 
